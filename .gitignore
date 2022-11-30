@@ -2,3 +2,7 @@
 x64/
 MySpreadsheet.sln
 MySpreadsheet/x64/
+MySpreadsheet/MySpreadsheet.aps
+MySpreadsheet/MySpreadsheet.vcxproj
+MySpreadsheet/MySpreadsheet.vcxproj.filters
+MySpreadsheet/MySpreadsheet.vcxproj.user
